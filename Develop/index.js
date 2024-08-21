@@ -1,7 +1,7 @@
-//Included packages needed for this application
-
-const inquirer = require('inquirer');
+//Included packages needed for this application these are required for the application to work
 const fs = require('fs');
+const inquirer = require('inquirer');
+const path = require('path');
 const generateMarkdown = require('./utils/generateMarkdown');
 
 // Created an array of questions for user input
@@ -51,7 +51,7 @@ const questions = [
     {
         type: 'input',
         name: 'email',
-        message: 'What is your email address?'
+        message: 'What is your valid email address?'
     }
 ];
 

@@ -43,5 +43,5 @@ function generateMarkdown(data) {
 
 `;
 }
-
+console.log(generateMarkdown);
 export default generateMarkdown;
