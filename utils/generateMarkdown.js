@@ -1,7 +1,7 @@
 
 // Created a function that returns a license badge based on which license is passed in
 // If there is no license, it returns an empty string
-function renderLicenseBadge(license) {
+export function renderLicenseBadge(license) {
   if (license) {
     return `![GitHub license](https://img.shields.io/badge/license-${license}-blue.svg)`;
   }
@@ -9,8 +9,6 @@ function renderLicenseBadge(license) {
     return '';
     }
 }
-
-export { renderLicenseBadge };
 
 // Created a function that returns the license link
 // If there is no license, it returns an empty string
@@ -38,6 +36,7 @@ This project is licensed under the [${license}](https://choosealicense.com/licen
 }
 
 // Created a function to generate markdown for README
+//use the word export to generate the code and see it in the terminal
 function generateMarkdown(data) {
   return `# ${data.title}
   by ${data.name}
