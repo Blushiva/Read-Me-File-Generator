@@ -1,16 +1,15 @@
 {
-  "name": "static-site",
+  "name": "read-me-file-generator",
   "version": "1.0.0",
+  "description": "AS A developer I WANT a README generator SO THAT I can quickly create a professional README for a new project",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Brandi Rasmussen",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^8.2.4",
-    "package.json": "^2.0.1"
-  },
-  "description": ""
+    "fs": "^0.0.1-security",
+    "inquirer": "^10.1.8"
+  }
 }
