@@ -1,8 +1,8 @@
 //Included packages needed for this application these are required for the application to work
-const fs = require('fs');
 const inquirer = require('inquirer');
 const path = require('path');
 const generateMarkdown = require('./utils/generateMarkdown');
+const fs = require('fs');
 
 // Created an array of questions for user input
 
@@ -30,12 +30,12 @@ const questions = [
     {
         type: 'input',
         name: 'contributing',
-        message: 'Please provide guidelines for contributing to the project:'
+        message: 'Please provide the guidelines for contributing to the project:'
     },
     {
         type: 'input',
         name: 'tests',
-        message: 'Please provide test instructions:'
+        message: 'Please provide the test instructions:'
     },
     {
         type: 'list',

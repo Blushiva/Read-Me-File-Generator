@@ -43,15 +43,15 @@ function generateMarkdown(data) {
   by ${data.name}
   ${renderLicenseBadge(data.license)}
   ## Table of Contents
-  [Description](#description)
-  [Installation](#installation)
-  [Usage](#usage)
-  [Contributing](#contributing)
-  [Tests](#tests)
-  [License](#license)
-  [github](#github)
-  [email](#email)
-  {Questions](#questions)}
+    [Description](#description)
+    [Installation](#installation)
+    [Usage](#usage)
+    [Contributing](#contributing)
+    [Tests](#tests)
+    [License](#license)
+    [github](#github)
+    [email](#email)
+    [Questions](#questions)
 ${renderLicenseSection(data.license)}
 ## Description
 ${data.description}
