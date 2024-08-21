@@ -52,6 +52,11 @@ const questions = [
         type: 'input',
         name: 'email',
         message: 'What is your valid email address?'
+    },
+    {
+        type: 'input',
+        name: 'questions',
+        message: 'Please provide instructions on how to reach you with additional questions:'
     }
 ];
 
