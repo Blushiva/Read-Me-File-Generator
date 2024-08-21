@@ -17,7 +17,7 @@ export { renderLicenseBadge };
 
 function renderLicenseLink(license) {
   if(license) {
-    return `[License](https://choosealicense.com/licenses/${license})`;
+    return `[License](https://choosealicense.com/licenses/${license}) `;
   }
   else {
     return '';
