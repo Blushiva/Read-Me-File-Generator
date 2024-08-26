@@ -16,6 +16,7 @@
 
 ## VIDEO TUTORIAL
 ### README File Generator (https://www.youtube.com/watch?v=kpr1S5eHVAs)
+### Thumbnail (https://youtube.com/clip/UgkxHd5c6a10y1LL3LSVT1egluyprZzYllK0?si=jg7NWyw2nW0B6LtG)
 
 ## License
 This project is licensed under the [MIT](https://choosealicense.com/licenses/MIT) license.
