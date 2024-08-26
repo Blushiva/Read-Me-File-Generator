@@ -14,11 +14,10 @@
 - [email](##email)
 - [Questions](##questions)
 
-##VIDEO TUTORIAL
-##README File Generator (https://www.youtube.com/watch?v=kpr1S5eHVAs)
+## VIDEO TUTORIAL
+## README File Generator (https://www.youtube.com/watch?v=kpr1S5eHVAs)
 
 ## License
-
 This project is licensed under the [MIT](https://choosealicense.com/licenses/MIT) license.
 ## Description
 This app creates a simple Readme file for markdown.
