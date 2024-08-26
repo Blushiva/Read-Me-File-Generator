@@ -14,7 +14,7 @@
     [email](##email)
     [Questions](##questions)
 
-## License
+
 ## License
 
 This project is licensed under the [MIT](https://choosealicense.com/licenses/MIT) license.
