@@ -1,7 +1,7 @@
 //Included packages needed for this application these are required for the application to work
 import inquirer from 'inquirer';
 import path from 'path';
-import generateMarkdown from './utils/generateMarkdown';
+import generateMarkdown from '/Users/brandirasmussen/Desktop/Module 7/Read-Me-File-Generator/generateMarkdown.js';
 import fs from 'fs';
 
 // Created an array of questions for user input

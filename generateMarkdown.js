@@ -69,11 +69,7 @@ ${data.github}
 ## email
 ${data.email}
 ## Questions
-${data.questions}
-
-
-
-`;
+${data.questions}`;
 }
 console.log(generateMarkdown);
 export default generateMarkdown;
