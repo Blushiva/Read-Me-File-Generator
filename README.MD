@@ -19,31 +19,31 @@
 
 This project is licensed under the [MIT](https://choosealicense.com/licenses/MIT) license.
 
-## Description
+## Description (##description)
 dfkhfHFIhfjkhf;khfhfK;LJF
 
-## Installation
+## Installation (##installation)
 FKOSADHJFIOJFIOJUfiojfiokljfckljdckljaclkdjcalkcjiodjfchioadfjioadfjioadsjfiodhfjiodhfioaihfiadfjhaiodjfiodjfioasdjf
 
-## Usage
+## Usage (#usage)
 djfjljfkl;jflkfjdljfodsjfsjfoljfljfl;jfdcla;j
 
-## Contributors
+## Contributors (##contributing)
 fjldjfiohdfojfdlkjfklJ;\DFLKAJFKLJDFKLJDFL
 
-## Tests
+## Tests (##tests)
 FKDJFJFL;JLFJFKL;AJFKLJSKFKLJ
 
 ## License
 MIT
 
-## github
+## github (##github)
 DFLJFLJVL;JDSK
 
-## email
+## email (##email)
 FKLFJLFJLKJCKLJ
 
-## Questions
+## Questions (##questions)
 DDKPOAFJKKFLA;KFL;KFL;KFL;AKFD'KFDD'KF'KF;L;K
 
 ## Video Link
