@@ -1,25 +1,29 @@
-# Read Me Generator
+# README Generator
   by undefined
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
   ## Table of Contents
-    [Description](#description)
-    [Installation](#installation)
+
+    [Description](##description)
+    [Installation](##installation)
     [Usage](#usage)
-    [Contributing](#contributing)
-    [Tests](#tests)
-    [License](#license)
-    [github](#github)
-    [email](#email)
-    [Questions](#questions)
+    [Contributors](##contributing)
+    [Tests](##tests)
+    [License](##license)
+    [github](##github)
+    [email](##email)
+    [Questions](##questions)
+
+## License
 ## License
 
 This project is licensed under the [MIT](https://choosealicense.com/licenses/MIT) license.
 ## Description
-A simple code to generate a ReadMe file 	
+This project produces a beautiful README file and creates a license, descreption ect...
 ## Installation
-n/A
-## Usage
 N/A
+## Usage
+To use this just fill out the information asked and it will autogenerate.
 ## Contributors
 N/A
 ## Tests
@@ -31,4 +35,4 @@ Blushiva
 ## email
 blushiva@gmail.com
 ## Questions
-N/A
+Please email with additional questions.
