@@ -54,7 +54,7 @@ function generateMarkdown(data) {
     [email](##email)
     [Questions](##questions)
 
-## License
+
 ${renderLicenseSection(data.license)}
 ## Description
 ${data.description}
