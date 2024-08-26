@@ -51,6 +51,8 @@ function generateMarkdown(data) {
     [github](#github)
     [email](#email)
     [Questions](#questions)
+    
+## License
 ${renderLicenseSection(data.license)}
 ## Description
 ${data.description}
