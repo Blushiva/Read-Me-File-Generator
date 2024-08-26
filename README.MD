@@ -4,16 +4,15 @@
 
   ## Table of Contents
 
-    [Description](##description)
-    [Installation](##installation)
-    [Usage](#usage)
-    [Contributors](##contributing)
-    [Tests](##tests)
-    [License](##license)
-    [github](##github)
-    [email](##email)
-    [Questions](##questions)
-
+[Description](##description)
+[Installation](##installation)
+[Usage](#usage)
+[Contributors](##contributing)
+[Tests](##tests)
+[License](##license)
+[github](##github)
+[email](##email)
+[Questions](##questions)
 
 ## License
 
